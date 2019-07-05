@@ -1,0 +1,71 @@
+    1  ls
+    2  pwd
+    3  cd Documents/
+    4  cd Gitexo/
+    5  git init
+    6  ls
+    7  ls
+    8  ls -l
+    9  ls -al
+   10  ls -a
+   11  cd .git/
+   12  ls
+   13  cat config 
+   14  cd ..
+   15  pwd
+   16  git status
+   17  touch letter.txt
+   18  git status
+   19  git add letter.txt 
+   20* git add .
+   21  git add-all
+   22  git commit -m "letter created"
+   23  git status
+   24  git log
+   25  git diff
+   26  git log
+   27  nano letter.txt 
+   28  git status
+   29  GIT ADD .
+   30  git add .
+   31  git status
+   32  git commit
+   33  git status
+   34  git log
+   35  git commit --amend
+   36  git log
+   37  nano letter.txt 
+   38  git add .
+   39  git commit
+   40  git log
+   41  nano letter.txt 
+   42  git commit -m "Add title" -a
+   43  git commit -am "Add title" 
+   44  touch .gitignore
+   45  touch sms.txt
+   46  touch mms.txt
+   47  ls
+   48  nano .gitignore 
+   49  git add .
+   50  git status
+   51  git commit -am "add new files"
+   52  nano .gitignore 
+   53  touch hh.js
+   54  touch ah.js
+   55  git add .
+   56  git status
+   57  nano .gitignore 
+   58  touch bb.md
+   59  touch cc.md
+   60  git add .
+   61  git status
+   62  rm .gitignore 
+   63  curl -o .gitignore http://www.gitignore.io/api/java
+   64  ls
+   65  ping www.google.com
+   66  curl -o .gitignore https://www.gitignore.io/api/java
+   67  ls
+   68  ls -a
+   69  nano .gitignore 
+   70  history
+   71  history > command.txt
